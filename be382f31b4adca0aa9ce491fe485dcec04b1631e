@@ -22,6 +22,30 @@
       "revId": "be382f31b4adca0aa9ce491fe485dcec04b1631e",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4e2250b4_b2981f3c",
+        "filename": "testfile.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1015844
+      },
+      "writtenOn": "2019-02-04T20:12:52Z",
+      "side": 1,
+      "message": "I\u0027ll remove it.",
+      "parentUuid": "4d0e8af9_79960b02",
+      "range": {
+        "startLine": 4,
+        "startChar": 49,
+        "endLine": 4,
+        "endChar": 55
+      },
+      "revId": "be382f31b4adca0aa9ce491fe485dcec04b1631e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     }
   ]
 }
