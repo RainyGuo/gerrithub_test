@@ -1,8 +1,10 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        int a = 1; 
+        int b = 1; 
+        // It will return the sum of two arguments. 
+        System.out.println(Integer.sum(a, b));
     }
 
 }
