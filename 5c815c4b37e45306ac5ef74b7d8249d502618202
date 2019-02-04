@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "51c96854_c2d3ef00",
+        "filename": "testfile.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1015844
+      },
+      "writtenOn": "2019-02-04T20:56:48Z",
+      "side": 1,
+      "message": "Please print a new line!",
+      "revId": "5c815c4b37e45306ac5ef74b7d8249d502618202",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
